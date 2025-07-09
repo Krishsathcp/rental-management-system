@@ -1,0 +1,5 @@
+# .gitignore
+*.class
+*.log
+*.jar
+.DS_Store
