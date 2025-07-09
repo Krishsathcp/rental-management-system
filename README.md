@@ -38,7 +38,7 @@ A **Java-based Rental Management System** with a MySQL backend and JDBC integrat
 
 ## ⚙️ How to Run
 
-> ⚠️ **Replace `Your_Password` in the `.bat` file** with your actual MySQL root password.
+> ⚠️ **Replace `Your_Password` in the `.bat` file** with your actual MySQL root password.And then Double Click on `.bat` file.
 
 ### Step-by-step (via `run_rental_management.bat`):
 
