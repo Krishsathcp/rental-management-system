@@ -75,3 +75,13 @@ echo Launching Rental Management System...
 java -cp ".;mysql-connector-j-9.1.0.jar" CarRentalApp
 
 pause
+```
+
+👨‍💻 Author
+Krishsath CP
+
+📬 Contact Me
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/krishsath-cp-59754532a/)
+- 💻 [GitHub](https://github.com/Krishsathcp)
+- 📧 Email: cpkrishsath@gmail.com
