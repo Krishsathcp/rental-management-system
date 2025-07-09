@@ -4,6 +4,15 @@ A **Java-based Rental Management System** with a MySQL backend and JDBC integrat
 
 ---
 
+## 📋 Requirements
+
+- ✅ **Java 8 or later** (Recommended: JDK 17)
+- ✅ **MySQL Server** running locally (default host: `localhost`, port: `3306`)
+- ✅ `mysql-connector-j-9.1.0.jar` (included in project)
+- ✅ MySQL root user with privileges to create tables
+
+---
+
 ## 📁 Project Structure
 
 - `CarRentalApp.java` – Main application entry point.
@@ -29,7 +38,7 @@ A **Java-based Rental Management System** with a MySQL backend and JDBC integrat
 
 ## ⚙️ How to Run
 
-> ⚠️ Replace `Your_Password` in the `.bat` file with your actual MySQL root password.
+> ⚠️ **Replace `Your_Password` in the `.bat` file** with your actual MySQL root password.
 
 ### Step-by-step (via `run_rental_management.bat`):
 
