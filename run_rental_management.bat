@@ -6,7 +6,7 @@ REM STEP 1: Run SQL script in MySQL
 REM -----------------------------------
 echo Running SQL script to set up database...
 
-mysql -u root -pManjari03* < rental_management_system_creation_db.sql
+mysql -u root -pYour_Password < rental_management_system_creation_db.sql
 
 IF %ERRORLEVEL% NEQ 0 (
     echo Failed to execute SQL script.
